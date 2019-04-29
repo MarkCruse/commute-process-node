@@ -1,0 +1,25 @@
+{
+  "name": "commute-process-node",
+  "version": "1.0.0",
+  "description": "testing node with commute lines",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MarkCruse/commute-process-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkCruse/commute-process-node/issues"
+  },
+  "homepage": "https://github.com/MarkCruse/commute-process-node#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "csv2geojson": "^5.1.1",
+    "d3-dsv": "^1.1.1",
+    "turf": "^3.0.14"
+  }
+}
